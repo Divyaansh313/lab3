@@ -13,8 +13,8 @@ int main()
     /*cout<<"*p/*q"<<*p/*q<<endl;*/
     cout<<"*p++ :"<<*p++<<endl;
     cout<<"*p-- :"<<*p--<<endl;
-    cout<<"*q++ :"<<*q++<<endl;
-    cout<<"*q-- :"<<*q--<<endl; //pointer decrement//
+    cout<<"*q++ :"<<*q++<<endl; //pointer value decrement//
+    cout<<"*q-- :"<<*q--<<endl; //pointer value decrement//
 
     /*cout<<"p+q :"<<p+q<<endl;*/
     /*cout<<"p*q :"<<p*q<<endl;*/
