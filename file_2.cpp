@@ -7,8 +7,8 @@ int main()
     int a=10,b=20;
     p=&a;
     q=&b;
-    cout<<"*p+*q :"<<*p+*q<<endl; //pointers addition//
-    cout<<"*p**q :"<<*p**q<<endl; //pointer value multiplication//:
+    cout<<"*p+*q :"<<*p+*q<<endl; //pointer value addition//
+    cout<<"*p**q :"<<*p**q<<endl; //pointer value multiplication//
     cout<<"*p-*q :"<<*p-*q<<endl;
     /*cout<<"*p/*q"<<*p/*q<<endl;*/
     cout<<"*p++ :"<<*p++<<endl;
@@ -18,7 +18,7 @@ int main()
 
     /*cout<<"p+q :"<<p+q<<endl;*/
     /*cout<<"p*q :"<<p*q<<endl;*/
-    cout<<"p-q :"<<p-q<<endl;
+    cout<<"p-q :"<<p-q<<endl; //pointer substraction//
     /*cout<<"p/q"<<p/q<<endl;*/
     cout<<"p++ :"<<p++<<endl;
     cout<<"p-- :"<<p--<<endl;
