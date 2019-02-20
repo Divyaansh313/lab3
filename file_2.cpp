@@ -14,7 +14,7 @@ int main()
     cout<<"*p++ :"<<*p++<<endl;
     cout<<"*p-- :"<<*p--<<endl;
     cout<<"*q++ :"<<*q++<<endl;
-    cout<<"*q-- :"<<*q--<<endl;
+    cout<<"*q-- :"<<*q--<<endl; //pointer decrement//
 
     /*cout<<"p+q :"<<p+q<<endl;*/
     /*cout<<"p*q :"<<p*q<<endl;*/
