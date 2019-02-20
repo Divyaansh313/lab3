@@ -7,7 +7,7 @@ int main()
     int a=10,b=20;
     p=&a;
     q=&b;
-    cout<<"*p+*q :"<<*p+*q<<endl;
+    cout<<"*p+*q :"<<*p+*q<<endl; //pointers addition//
     cout<<"*p**q :"<<*p**q<<endl;
     cout<<"*p-*q :"<<*p-*q<<endl;
     /*cout<<"*p/*q"<<*p/*q<<endl;*/
