@@ -20,7 +20,7 @@ int main()
     /*cout<<"p*q :"<<p*q<<endl;*/
     cout<<"p-q :"<<p-q<<endl; //pointer substraction//
     /*cout<<"p/q"<<p/q<<endl;*/
-    cout<<"p++ :"<<p++<<endl;
+    cout<<"p++ :"<<p++<<endl; //pointer increment//
     cout<<"p-- :"<<p--<<endl;
     cout<<"q++ :"<<q++<<endl;
     cout<<"q-- :"<<q--<<endl;
