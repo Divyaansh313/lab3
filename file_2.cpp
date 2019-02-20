@@ -8,7 +8,7 @@ int main()
     p=&a;
     q=&b;
     cout<<"*p+*q :"<<*p+*q<<endl; //pointers addition//
-    cout<<"*p**q :"<<*p**q<<endl;
+    cout<<"*p**q :"<<*p**q<<endl; //pointer value multiplication//:
     cout<<"*p-*q :"<<*p-*q<<endl;
     /*cout<<"*p/*q"<<*p/*q<<endl;*/
     cout<<"*p++ :"<<*p++<<endl;
